@@ -1,5 +1,6 @@
 <section>
 <h2>Hi there 👋</h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/1.gif" width="300"/>
 <ul>
 <li>🌱 I’m currently learning software development</li>
 <li>📫 How to reach me: char951144@gmail.com</li>
