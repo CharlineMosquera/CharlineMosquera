@@ -2,8 +2,8 @@
 <h2>Hi there 👋</h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/1.gif" width="300"/>
 <ul>
-<li>🌱 I’m currently learning software development</li>
-<li>📫 How to reach me: char951144@gmail.com</li>
+<li>🌱 Full Stack Software Developer</li>
+<li>📫 How to reach me: charline.mosquera.dev@gmail.com</li>
 </ul>
 </section>
 
